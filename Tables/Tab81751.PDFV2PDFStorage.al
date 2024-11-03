@@ -33,6 +33,11 @@ table 81751 "PDFV2 PDF Storage"
         {
             Clustered = true;
         }
+        //[
+        key(SourceRecordId; "Source Record ID")
+        {
+        }
+        //]
     }
 
     procedure UploadContent(SourceRecordID: RecordId)

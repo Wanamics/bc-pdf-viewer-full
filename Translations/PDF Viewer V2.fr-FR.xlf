@@ -1,155 +1,197 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
-  <file datatype="xml" source-language="en-US" target-language="en-US" original="PDF Viewer V2">
+  <file datatype="xml" source-language="en-US" target-language="fr-FR" original="PDF Viewer V2.g.xlf">
     <body>
       <group id="body">
         <trans-unit id="Table 3327445455 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>PDF Storage</source>
+          <target>Stockage PDF</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table PDFV2 PDF Storage - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 3327445455 - NamedType 1264698394" size-unit="char" translate="yes" xml:space="preserve">
           <source>Download PDF File</source>
+          <target>Télécharger fichier PDF</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table PDFV2 PDF Storage - NamedType DownloadTitleLbl</note>
         </trans-unit>
         <trans-unit id="Table 3327445455 - NamedType 1254356211" size-unit="char" translate="yes" xml:space="preserve">
           <source>Upload PDF File</source>
+          <target>Importer fichier PDF</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table PDFV2 PDF Storage - NamedType UploadTitleLbl</note>
         </trans-unit>
         <trans-unit id="Table 3327445455 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Description</source>
+          <target>Description</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table PDFV2 PDF Storage - Field Description - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 3327445455 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Entry No.</source>
+          <target>N° séquence</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table PDFV2 PDF Storage - Field Entry No. - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 3327445455 - Field 3341904219 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>PDF Value</source>
+          <target>Valeur PDF</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table PDFV2 PDF Storage - Field PDF Value - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 3327445455 - Field 2649378047 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Source Record ID</source>
+          <target>ID enregistrement origine</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table PDFV2 PDF Storage - Field Source Record ID - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 3327445455 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>PDF Storage</source>
+          <target>Stockage PDF</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page PDFV2 PDF Storage - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 3327445455 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the value of the Description field</source>
+          <target>Spécifie la valeur du champ Description</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page PDFV2 PDF Storage - Control Description - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 3327445455 - Action 3053757551 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Download</source>
+          <target>Télécharger</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page PDFV2 PDF Storage - Action DownloadContent - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 3327445455 - Action 3053757551 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Download</source>
+          <target>Télécharger</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page PDFV2 PDF Storage - Action DownloadContent - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 3327445455 - Action 3638416715 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>View PDF</source>
+          <target>Afficher PDF</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page PDFV2 PDF Storage - Action PDFV2 View PDF - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 3327445455 - Action 3638416715 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>View PDF</source>
+          <target>Afficher PDF</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page PDFV2 PDF Storage - Action PDFV2 View PDF - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 3327445455 - Action 4047584486 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Upload</source>
+          <target>Importer</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page PDFV2 PDF Storage - Action UploadContent - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 3327445455 - Action 4047584486 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Upload</source>
+          <target>Importer</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page PDFV2 PDF Storage - Action UploadContent - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 1709386764 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PDF Documents</source>
+          <target>Documents pdf</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PDFV2 PDF Storage Factbox - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1709386764 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Description field</source>
+          <target>Spécifie la valeur du champ Description</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PDFV2 PDF Storage Factbox - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1709386764 - Action 3053757551 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Download</source>
+          <target>Télécharger</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PDFV2 PDF Storage Factbox - Action DownloadContent - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1709386764 - Action 3053757551 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Download</source>
+          <target>Télécharger</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PDFV2 PDF Storage Factbox - Action DownloadContent - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1709386764 - Action 4047584486 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Upload</source>
+          <target>Importer</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PDFV2 PDF Storage Factbox - Action UploadContent - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1709386764 - Action 4047584486 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Upload</source>
+          <target>Importer</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PDFV2 PDF Storage Factbox - Action UploadContent - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Page 1415071626 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>PDF Viewer</source>
+          <target>Afficheur PDF</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page PDFV2 PDF Viewer - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Page 3871923882 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>PDF Documents</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page wan PDF Storage Factbox - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Page 3871923882 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the value of the Description field</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page wan PDF Storage Factbox - Control Description - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="Page 3871923882 - Action 3053757551 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Download</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page wan PDF Storage Factbox - Action DownloadContent - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="Page 3871923882 - Action 3053757551 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Download</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page wan PDF Storage Factbox - Action DownloadContent - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Page 3871923882 - Action 4047584486 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Upload</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page wan PDF Storage Factbox - Action UploadContent - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="Page 3871923882 - Action 4047584486 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Upload</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page wan PDF Storage Factbox - Action UploadContent - Property Caption</note>
-        </trans-unit>
         <trans-unit id="PageExtension 3970168664 - Control 298174628 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1658940635">
           <source>Pdf Storage Count</source>
+          <target>Nbre de PDF</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension PDFV2 Cust. Bank Account List - Control wanPdfStorageCount - Property Caption</note>
         </trans-unit>
         <trans-unit id="PageExtension 2923609991 - Action 3638416715 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 219593816">
           <source>View PDF</source>
+          <target>Afficher PDF</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension PDFV2 Document Attachment Det - Action PDFV2 View PDF - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 2923609991 - Action 3638416715 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 219593816">
           <source>View PDF</source>
+          <target>Afficher PDF</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension PDFV2 Document Attachment Det - Action PDFV2 View PDF - Property Caption</note>
         </trans-unit>
+        <trans-unit id="PageExtension 4242316486 - Action 3638416715 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2912733748">
+          <source>View the PDF document.</source>
+          <target>Afficher le document PDF</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PDFV2 Inc.Doc.Attach.FactBox - Action PDFV2 View PDF - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4242316486 - Action 3638416715 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2912733748">
+          <source>View PDF</source>
+          <target>Afficher PDF</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PDFV2 Inc.Doc.Attach.FactBox - Action PDFV2 View PDF - Property Caption</note>
+        </trans-unit>
         <trans-unit id="PageExtension 2767462351 - Action 3638416715 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 960449109">
           <source>View PDF</source>
+          <target>Afficher PDF</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension PDFV2 Report Inbox Part - Action PDFV2 View PDF - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 2767462351 - Action 3638416715 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 960449109">
           <source>View PDF</source>
+          <target>Afficher PDF</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension PDFV2 Report Inbox Part - Action PDFV2 View PDF - Property Caption</note>
         </trans-unit>
-        <trans-unit id="PageExtension 2374325088 - Control 298174628 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2857567339">
+        <trans-unit id="PageExtension 3432268582 - Control 298174628 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2857567339">
           <source>Pdf Storage Count</source>
+          <target>Nbre de PDF</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">PageExtension wan SEPA Direct Debit Mand. - Control wanPdfStorageCount - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PDFV2 SEPA Direct Debit Mand. - Control wanPdfStorageCount - Property Caption</note>
         </trans-unit>
-        <trans-unit id="PageExtension 1877579779 - Control 298174628 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3409829539">
+        <trans-unit id="PageExtension 4151637937 - Control 298174628 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3409829539">
           <source>Pdf Storage Count</source>
+          <target>Nbre. de PDF</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">PageExtension wan Vendor Bank Account List - Control wanPdfStorageCount - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PDFV2 Vendor Bank Account List - Control wanPdfStorageCount - Property Caption</note>
         </trans-unit>
         <trans-unit id="PermissionSet 1415071626 - Property 2879900210" maxwidth="30" size-unit="char" translate="yes" xml:space="preserve">
           <source>PDF Viewer</source>
+          <target>Afficheur PDF</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PermissionSet PDFV2 PDF Viewer - Property Caption</note>
         </trans-unit>

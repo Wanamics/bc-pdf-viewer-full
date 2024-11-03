@@ -1,3 +1,4 @@
+#if PDFV2
 pageextension 81752 "PDFV2 Customer List" extends "Customer List" //22
 {
     actions
@@ -28,3 +29,4 @@ pageextension 81752 "PDFV2 Customer List" extends "Customer List" //22
         }
     }
 }
+#endif

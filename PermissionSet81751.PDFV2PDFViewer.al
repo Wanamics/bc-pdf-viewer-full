@@ -6,5 +6,8 @@ permissionset 81751 "PDFV2 PDF Viewer"
         table "PDFV2 PDF Storage" = X,
         tabledata "PDFV2 PDF Storage" = RMID,
         page "PDFV2 PDF Viewer" = X,
-        page "PDFV2 PDF Storage" = X;
+        page "PDFV2 PDF Storage" = X,
+        //[
+        page "wan PDF Storage Factbox" = X;
+    //]
 }

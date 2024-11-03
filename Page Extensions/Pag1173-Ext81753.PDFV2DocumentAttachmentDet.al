@@ -2,7 +2,7 @@ pageextension 81753 "PDFV2 Document Attachment Det" extends "Document Attachment
 {
     actions
     {
-        addlast(processing)
+        addfirst(processing)
         {
             action("PDFV2 View PDF")
             {
@@ -10,10 +10,10 @@ pageextension 81753 "PDFV2 Document Attachment Det" extends "Document Attachment
                 Image = Text;
                 Caption = 'View PDF';
                 ToolTip = 'View PDF';
-                Promoted = true;
-                PromotedOnly = true;
-                PromotedCategory = Process;
-                Enabled = Rec."File Extension" = 'pdf';
+                // Promoted = true;
+                // PromotedOnly = true;
+                // PromotedCategory = Process;
+                Enabled = IsPdf; //Rec."File Extension" = 'pdf';
                 trigger OnAction()
                 var
                     TempBlob: Codeunit "Temp Blob";
@@ -29,5 +29,18 @@ pageextension 81753 "PDFV2 Document Attachment Det" extends "Document Attachment
                 end;
             }
         }
+        //[
+        addfirst(Category_Process)
+        {
+            actionref("PDFV2 View PDF Promoted"; "PDFV2 View PDF") { }
+        }
+        //]
     }
+    var
+        IsPdf: Boolean;
+
+    trigger OnAfterGetCurrRecord()
+    begin
+        IsPdf := Rec."File Extension".ToLower() = 'pdf';
+    end;
 }

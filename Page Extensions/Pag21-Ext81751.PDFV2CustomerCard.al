@@ -1,3 +1,4 @@
+#if PDFV2
 pageextension 81751 "PDFV2 Customer Card" extends "Customer Card"//21
 {
     actions
@@ -27,5 +28,5 @@ pageextension 81751 "PDFV2 Customer Card" extends "Customer Card"//21
             }
         }
     }
-
 }
+#endif
